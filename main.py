@@ -21,4 +21,3 @@ plt.show()
 
 fd[["eIas", "eTas"]].plot()
 plt.show()
-print("test")
